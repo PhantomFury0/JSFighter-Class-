@@ -167,10 +167,10 @@ function hideContols() {
 }
 
 
-  /*
+/*
 
-  MHW = 'delicious'
+MHW = 'delicious'
 
-  MHWoutput > MHWinput
+MHWoutput > MHWinput
 
-  */
+*/
