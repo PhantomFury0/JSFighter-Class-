@@ -12,4 +12,4 @@ To find more documentation please refer to JSFighter-target
 
 <https://github.com/csmith1188/JSFighter-Target->
 
-if you want to get involved request permission from csmith1188. He will answer you in a timely matter.
+if you want to get involved request permission from csmith1188. He will answer you in a timely matter. If not I'm not sorry.
